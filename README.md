@@ -1,12 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE1,50:A855F7,100:7C3AED&height=200&section=header&text=&fontSize=1"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE1,50:A855F7,100:7C3AED&height=200&section=header&text=&fontSize=1"/>
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE1,50:A855F7,100:7C3AED&height=200&section=header&text=&fontSize=1" width="100%"/>
-</picture>
-
 <div align="center">
 
-### Thiago Xikota
+# Thiago Xikota
 
 **Product Designer** | **AI Researcher** | **Accessibility Advocate**
 
@@ -21,26 +15,26 @@
 
 ---
 
-Product Designer no **Wellhub**, onde trabalho com design systems e acessibilidade em escala. Pesquisador em **IA Generativa aplicada ao design** — investigo como ferramentas como Claude, Midjourney e Figma AI mudam (e limitam) o processo criativo.
+Product Designer at **Wellhub**, working on design systems and accessibility at scale. Researcher in **Generative AI applied to design** — investigating how tools like Claude, Midjourney, and Figma AI reshape (and constrain) the creative process.
 
-Bacharel em Ciencia da Computacao, 7 anos de experiencia em design, 25+ paises visitados, 5 idiomas. Escrevo no LinkedIn e Medium sobre design, IA e acessibilidade com profundidade e sem enrolacao.
+Brazilian-Japanese, 23, based in Florianopolis. CS degree, 7 years in design, 25+ countries, 5 languages. I write on LinkedIn and Medium about design, AI, and accessibility — with depth, no fluff.
 
 ---
 
-### Pesquisa academica
+### Research
 
-| Paper | Tema |
-|-------|------|
-| **Structural Convergence in GenAI-Assisted Prototyping** | Como prototipos feitos com IA generativa convergem estruturalmente entre designers |
-| **Acessibilidade em Design Systems Publicos** | Analise dos design systems Bold e DSGov com Axe DevTools, Lighthouse e WAVE |
-| **Vibe Coding: Psychological Intersections** | Intersecoes psicologicas do "vibe coding" e suas implicacoes para o design |
+| Paper | Topic |
+|-------|-------|
+| **Structural Convergence in GenAI-Assisted Prototyping** | How AI-generated prototypes structurally converge across designers |
+| **Accessibility in Public Design Systems** | Axe DevTools, Lighthouse, and WAVE analysis of Bold and DSGov design systems |
+| **Vibe Coding: Psychological Intersections** | Psychological implications of "vibe coding" for designers |
 
-### O que estou construindo
+### Currently building
 
-- Livro **Design na Era da IA** — como a inteligencia artificial esta redefinindo o papel do designer
-- Artigos no **Medium** sobre design japones, branding e cultura visual
-- Posts diarios no **LinkedIn** com takes sobre design, IA e acessibilidade
-- Palestras e workshops sobre prototipacao assistida por IA e acessibilidade digital
+- Book **Design na Era da IA** — how AI is redefining the designer's role
+- **Medium** articles on Japanese design, branding, and visual culture
+- Daily **LinkedIn** posts with sharp takes on design, AI, and accessibility
+- Talks and workshops on AI-assisted prototyping and digital accessibility
 
 ---
 
@@ -62,7 +56,3 @@ Bacharel em Ciencia da Computacao, 7 anos de experiencia em design, 25+ paises v
 <img src="https://komarev.com/ghpvc/?username=thiagoxikota&color=7C3AED&style=flat-square&label=visitors"/>
 
 </div>
-
-<picture>
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:6C3CE1&height=100&section=footer" width="100%"/>
-</picture>
