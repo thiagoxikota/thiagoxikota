@@ -23,7 +23,7 @@
 
 Product Designer no **Wellhub**, onde trabalho com design systems e acessibilidade em escala. Pesquisador em **IA Generativa aplicada ao design** — investigo como ferramentas como Claude, Midjourney e Figma AI mudam (e limitam) o processo criativo.
 
-Brasileiro-japones, 23 anos, morando em Florianopolis. Bacharel em Ciencia da Computacao, 7 anos de experiencia em design, 25+ paises visitados, 5 idiomas. Escrevo no LinkedIn e Medium sobre design, IA e acessibilidade com profundidade e sem enrolacao.
+Bacharel em Ciencia da Computacao, 7 anos de experiencia em design, 25+ paises visitados, 5 idiomas. Escrevo no LinkedIn e Medium sobre design, IA e acessibilidade com profundidade e sem enrolacao.
 
 ---
 
